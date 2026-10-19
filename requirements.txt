@@ -1,0 +1,4 @@
+numpy
+matplotlib
+opencv-python   # skip on Jetson (use JetPack's OpenCV)
+pyserial        # optional, for a serial IMU
