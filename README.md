@@ -90,7 +90,7 @@ That's about **7× less** frame-to-frame motion and about **5.5× less** shake. 
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/camstab.git
+git clone https://github.com/MatinRafiei/camstab.git
 cd camstab
 pip install -r requirements.txt
 ```
